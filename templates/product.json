@@ -11,6 +11,17 @@
   "sections": {
     "main": {
       "type": "main-product",
+      "blocks": {
+        "live_product_options_app_block_fVQWPw": {
+          "type": "shopify://apps/live-product-options/blocks/app-block/88bfdf40-5e27-4962-a966-70c8d1e87757",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "live_product_options_app_block_fVQWPw"
+      ],
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
