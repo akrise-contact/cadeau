@@ -24,16 +24,16 @@
             "heading_tag": "h2"
           }
         },
-        "live_product_options_app_block_HQtKnX": {
-          "type": "shopify://apps/live-product-options/blocks/app-block/88bfdf40-5e27-4962-a966-70c8d1e87757",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "liquid_Lm68GC": {
           "type": "liquid",
           "settings": {
             "liquid": "<style>\n  .avantages {\n    font-size: 15px;\n    line-height: 1.8;\n    color: #333;\n  }\n  .avantages span {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n  }\n</style>\n\n<div class=\"avantages\">\n\n <span>🖋️ Gravure personnalisée OFFERTE</span>\n  <span>✨ Confectionné à la main avec soin</span>\n  <span>💝 Le cadeau idéal pour Noël ou un anniversaire</span>\n</div>"
+          }
+        },
+        "live_product_options_app_block_HQtKnX": {
+          "type": "shopify://apps/live-product-options/blocks/app-block/88bfdf40-5e27-4962-a966-70c8d1e87757",
+          "settings": {
+            "product": "{{product}}"
           }
         },
         "buy_buttons_twKAFR": {
@@ -51,8 +51,8 @@
       "block_order": [
         "liquid_RHjkQz",
         "title_d83qw3",
-        "live_product_options_app_block_HQtKnX",
         "liquid_Lm68GC",
+        "live_product_options_app_block_HQtKnX",
         "buy_buttons_twKAFR"
       ],
       "settings": {
