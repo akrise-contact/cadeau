@@ -12,10 +12,22 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title_7dFaPm": {
+        "liquid_RHjkQz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .avantages {\n    font-size: 15px;\n    line-height: 1.8;\n    color: #333;\n  }\n  .avantages span {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n  }\n</style>\n\n<div class=\"avantages\">\n  <span>⭐⭐⭐⭐⭐ (322 avis vérifiés)</span>\n</div>"
+          }
+        },
+        "title_d83qw3": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "liquid_Lm68GC": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .avantages {\n    font-size: 15px;\n    line-height: 1.8;\n    color: #333;\n  }\n  .avantages span {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n  }\n</style>\n\n<div class=\"avantages\">\n\n <span>🖋️ Gravure personnalisée OFFERTE</span>\n  <span>✨ Confectionné à la main avec soin</span>\n  <span>💝 Le cadeau idéal pour Noël ou un anniversaire</span>\n</div>"
           }
         },
         "buy_buttons_twKAFR": {
@@ -31,7 +43,9 @@
         }
       },
       "block_order": [
-        "title_7dFaPm",
+        "liquid_RHjkQz",
+        "title_d83qw3",
+        "liquid_Lm68GC",
         "buy_buttons_twKAFR"
       ],
       "settings": {
