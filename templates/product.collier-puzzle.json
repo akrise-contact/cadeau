@@ -24,6 +24,12 @@
             "heading_tag": "h2"
           }
         },
+        "live_product_options_app_block_HQtKnX": {
+          "type": "shopify://apps/live-product-options/blocks/app-block/88bfdf40-5e27-4962-a966-70c8d1e87757",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "liquid_Lm68GC": {
           "type": "liquid",
           "settings": {
@@ -45,6 +51,7 @@
       "block_order": [
         "liquid_RHjkQz",
         "title_d83qw3",
+        "live_product_options_app_block_HQtKnX",
         "liquid_Lm68GC",
         "buy_buttons_twKAFR"
       ],
